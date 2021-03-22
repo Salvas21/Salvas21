@@ -1,8 +1,8 @@
 ## Hello there 👋😄
 
-![General Kenobi](https://tenor.com/NMDa.gif)
+![General Kenobi](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-![General Grievious](https://tenor.com/bcvKp.gif)
+![General Grievious](https://media.giphy.com/media/7JC7bCJJGj44aBwB8p/giphy.gif)
 
 <!--
 **Salvas21/Salvas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
