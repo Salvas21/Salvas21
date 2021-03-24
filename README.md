@@ -4,6 +4,17 @@
 
 ![General Grievious](https://media.giphy.com/media/7JC7bCJJGj44aBwB8p/giphy.gif)
 
+
+```php
+  $myself = [
+      'name' => "Mickael Salvas",
+      'location' => "Québec, Canada",
+      'education' => "Computer science graduate in college",
+      ''
+  ];
+```
+
+
 <!--
 **Salvas21/Salvas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
