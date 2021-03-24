@@ -9,9 +9,16 @@
   $myself = [
       'name' => "Mickael Salvas",
       'location' => "Québec, Canada",
-      'education' => "Computer science graduate in college",
-      ''
+      'education' => [
+          'current' => "Computer Science Graduate in Cégep",
+          'next' => "Bachelor in Computer Science"
+      ],
+      'languages' => ["Java", "PHP", "C++", "C", "C#", "JavaScript"],
+      'salutation' => "Hi ! 👋"
+      'about' => "I'm someone that loves to learn new things and get challenged ! 😄"
   ];
+  
+  echo $myself->salutation . " " . $myself->about;
 ```
 
 
