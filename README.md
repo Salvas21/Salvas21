@@ -9,9 +9,9 @@
           'current' => "Bachelor in Computer Science",
           'next' => "..."
       ],
-      'languages' => ["Java", "PHP", "C++", "C", "C#", "JavaScript"],
+      'languages' => ["Java", "C#", "PHP", "C++", "C", "JavaScript"],
       'salutation' => "Hi ! 👋"
-      'about' => "I'm someone that loves to learn new things and get challenged ! 😄"
+      'about' => "I'm someone that loves to learn new things and being challenged ! 😄"
   ];
   
   echo $myself->salutation . " " . $myself->about;
