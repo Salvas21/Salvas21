@@ -14,7 +14,7 @@
       'about' => "I'm someone that loves to learn new things and being challenged ! 😄"
   ];
   
-  echo $myself->salutation . " " . $myself->about;
+  echo $myself['salutation'] . " " . $myself['about'];
 ```
 
 <!--
