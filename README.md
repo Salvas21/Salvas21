@@ -9,7 +9,7 @@
           'current' => "Bachelor in Computer Science",
           'next' => "..."
       ],
-      'languages' => ["Java", "C#", "PHP", "C++", "C", "JavaScript"],
+      'languages' => ["Java", "C#", "PHP", "C++", "C", "JavaScript", "TypeScript"],
       'salutation' => "Hi ! 👋"
       'about' => "I'm someone that loves to learn new things and being challenged ! 😄"
   ];
