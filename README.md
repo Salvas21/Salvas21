@@ -11,3 +11,5 @@
                   "JSON", "NodeJS", "React", "Angular", "Laravel"]
 }
 ```
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Salvas21&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvas21&hide=TeX&layout=compact)
