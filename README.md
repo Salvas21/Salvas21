@@ -15,7 +15,7 @@
   echo $myself['salutation'] . " " . $myself['about'];
 ```
 
-```javascript
+```json
 let me = {
   "name": "Mickael Salvas", 
   "location": "South Shore of Montreal, Québec, Canada", 
@@ -25,6 +25,6 @@ let me = {
   ], 
   "languages": ["Java", "C#", "JavaScript/TypeScript", "PHP", "C/C++", "Python", "Swift"], 
   "technologies": ["Relational Databases (MySQL, PostgreSQL)", "Docker", "DigitalOcean", 
-                          "Git/Github/BitBucket", "NodeJS", "React", "Angular", "Laravel"]
+                                      "Git/Github/BitBucket", "NodeJS", "React", "Angular", "Laravel"]
 };
 ```
