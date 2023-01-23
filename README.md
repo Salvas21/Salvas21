@@ -24,6 +24,7 @@ let me = {
     "Bachelor in Computer Science at UQTR, 2023"
   ], 
   "languages": ["Java", "C#", "JavaScript/TypeScript", "PHP", "C/C++", "Python", "Swift"], 
-  "technologies": ["Relational Databases (MySQL, PostgreSQL)", "Docker", "DigitalOcean", "Git/Github/BitBucket", "NodeJS", "React", "Angular", "Laravel"]
+  "technologies": ["Relational Databases (MySQL, PostgreSQL)", "Docker", "DigitalOcean", 
+                          "Git/Github/BitBucket", "NodeJS", "React", "Angular", "Laravel"]
 };
 ```
