@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Mickael Salvas 👨‍💻", 
-  "location": "South Shore of Montreal, Québec, Canada", 
+  "location": "South Shore of Montréal, Québec, Canada", 
   "education": [
     "Computer Science Graduate at Cégep de Sorel-Tracy, 2021", 
     "Bachelor in Computer Science at UQTR, 2023"
