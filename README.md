@@ -6,9 +6,26 @@
     "Computer Science Graduate at Cégep de Sorel-Tracy, 2021", 
     "Bachelor in Computer Science at UQTR, 2023"
   ], 
-  "languages": ["Java", "C#", "JavaScript/TypeScript", "PHP", "C/C++", "Python", "Swift"], 
-  "technologies": ["Relational Databases (MySQL, PostgreSQL)", "Docker", "DigitalOcean", "Git/Github/BitBucket", 
-                  "JSON", "NodeJS", "React", "Angular", "Laravel"]
+  "languages": [
+    "Java", 
+    "C#", 
+    "JavaScript/TypeScript", 
+    "PHP", 
+    "C/C++", 
+    "Python", 
+    "Swift"
+  ], 
+  "technologies": [
+    "Relational Databases (MySQL, PostgreSQL)", 
+    "Docker", 
+    "DigitalOcean", 
+    "Git/Github/BitBucket", 
+    "JSON", 
+    "NodeJS", 
+    "React", 
+    "Angular", 
+    "Laravel"
+  ]
 }
 ```
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Salvas21&count_private=true&show_icons=true&include_all_commits=true)
