@@ -1,5 +1,3 @@
-# Bonjour / Hello there 👋
-## Who am I
 ```php
   $myself = [
       'name' => "Mickael Salvas",
@@ -16,7 +14,3 @@
   
   echo $myself['salutation'] . " " . $myself['about'];
 ```
-
-<!--
-**Salvas21/Salvas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
