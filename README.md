@@ -1,5 +1,5 @@
 ```json
-let me = {
+{
   "name": "Mickael Salvas 👨‍💻", 
   "location": "South Shore of Montreal, Québec, Canada", 
   "education": [
@@ -9,5 +9,5 @@ let me = {
   "languages": ["Java", "C#", "JavaScript/TypeScript", "PHP", "C/C++", "Python", "Swift"], 
   "technologies": ["Relational Databases (MySQL, PostgreSQL)", "Docker", "DigitalOcean", "Git/Github/BitBucket", 
                   "JSON", "NodeJS", "React", "Angular", "Laravel"]
-};
+}
 ```
